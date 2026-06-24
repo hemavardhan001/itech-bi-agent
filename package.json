@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.18.0",
+    "lucide-react": "^1.21.0",
+    "mermaid": "^11.15.0",
+    "plotly.js-dist-min": "^3.6.0",
+    "react-plotly.js": "^4.0.0"
+  }
+}
